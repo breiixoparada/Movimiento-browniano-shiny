@@ -37,3 +37,12 @@ install.packages(c("shiny", "shinythemes", "ggplot2", "dplyr", "tidyr"))
 ```r
 shiny::runApp("ruta/a/la/carpeta/del/repositorio")
 ```
+## Referencias
+
+Einstein, A. (1905). *On the Motion of Small Particles Suspended in Liquids at Rest Required by the Molecular-Kinetic Theory of Heat*. *Annalen der Physik*, *17*, 549–560.
+
+Øksendal, B. (2003). *Stochastic Differential Equations: An Introduction with Applications* (6ª ed.). Springer.
+
+Chang, W., Cheng, J., Allaire, J., Sievert, C., Schloerke, B., Aden-Buie, G., Xie, Y., Allen, J., McPherson, J., Dipert, A. y Borges, B. (2026). *shiny: Web Application Framework for R*. R package version 1.13.0. https://CRAN.R-project.org/package=shiny
+
+Wickham, H. (2016). *ggplot2: Elegant Graphics for Data Analysis*. Springer-Verlag New York. https://ggplot2.tidyverse.org
